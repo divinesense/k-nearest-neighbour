@@ -29,7 +29,7 @@ def loadfile(file,trainingset,testset):
         
 def calc_dist(train,test):
   dist=[]
-  to_test=test[42]      #change index (0-50) here to test for different test instances 
+  to_test=test[42]      #change index (0-47) here to test for different test instances 
   print "%"*12
   print to_test
   print "%"*12     
