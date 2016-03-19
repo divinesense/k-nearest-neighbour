@@ -12,10 +12,6 @@ A machine learning algorithm for classification problems.
 *                                                                                                   *
 *****************************************************************************************************
 
-KNN (K nearest neighbour) algorithm
-
-
-
 ADDITIONAL INFO
 * this implementation uses eucledian distance to calculate nearest neighbours.
   link---> https://en.wikipedia.org/wiki/Euclidean_distance
